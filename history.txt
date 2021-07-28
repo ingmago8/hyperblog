@@ -4,3 +4,5 @@ Miguel Garcia tiene 30 años y naci en Venezuela
 y me encuentro en Peru
 
 hoy hablaremos de su historia
+
+Esta estudiando git y github porque quiere aprerderlo profesionalmente
